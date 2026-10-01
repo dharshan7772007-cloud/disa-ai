@@ -1,0 +1,6 @@
+{
+  "name": "DISA – AI Government Scheme Assistant for Women",
+  "description": "Speak. Discover. Benefit. A voice-first AI assistant designed for women to independently discover and understand Indian government schemes in simple local languages.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
